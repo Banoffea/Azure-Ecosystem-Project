@@ -28,3 +28,9 @@ The final Gold layer enables analysis such as:
 - Total medal counts by country and sport.
 - Athlete performance trends across different venues.
 - Schedule optimization based on historical results.
+
+## DAG
+![alt text](<Azure Data Factory DAG.png>)
+
+## Silver (Star Schema)
+![alt text](StarSchema.png)
